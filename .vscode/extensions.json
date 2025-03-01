@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-ceintl.vscode-language-pack-pt-br",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "miguelsolorio.fluent-icons",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "miguelsolorio.min-theme",
+    "esbenp.prettier-vscode"
+  ]
+}
