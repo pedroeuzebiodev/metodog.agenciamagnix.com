@@ -1,0 +1,10 @@
+:root {
+  --cor-de-fundo: linear-gradient(to right, #f5aa35 0%, #e96233 100%);
+  --cor-primaria: linear-gradient(to right, #3c277a 0%, #573aac 100%);
+  --cor-secundaria: #0c0c0c;
+  --cor-terciaria: #e47f2f;
+  --cor-quartaria: #4c3398;
+  --cor-de-texto: #ffffff;
+  --cor-verde: #2e9f07;
+  --cor-vermelha: #f81818;
+}
