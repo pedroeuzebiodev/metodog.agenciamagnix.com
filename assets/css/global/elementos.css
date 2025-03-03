@@ -2,3 +2,10 @@ body {
   min-height: 100vh;
   background: var(--cor-de-fundo);
 }
+
+.max-width {
+  width: 100%;
+  max-width: 128rem;
+  margin: auto;
+  padding: 0 3rem;
+}
