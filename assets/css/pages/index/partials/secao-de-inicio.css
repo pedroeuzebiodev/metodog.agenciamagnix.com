@@ -1,0 +1,59 @@
+#secao-de-inicio h1,
+#secao-de-inicio span {
+  font-size: 3rem;
+  font-weight: 700;
+
+  line-height: 3.6rem;
+}
+
+#secao-de-inicio h1 {
+  color: var(--cor-de-texto);
+}
+
+#secao-de-inicio span {
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
+
+#secao-de-inicio h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+
+  color: var(--cor-de-texto);
+
+  margin: 3.6rem 0;
+}
+
+#secao-de-inicio a {
+  text-decoration: none;
+
+  color: var(--cor-de-texto);
+
+  font-size: 2rem;
+  font-weight: 500;
+
+  line-height: 2.4rem;
+
+  background: var(--cor-primaria);
+
+  padding: 1.2rem 2.4rem;
+
+  border-radius: 999.9rem;
+
+  text-transform: uppercase;
+  text-align: center;
+
+  display: inline-block;
+
+  margin-bottom: 3.6rem;
+}
+
+#secao-de-inicio img {
+  width: 100%;
+  max-width: 51.2rem;
+}
