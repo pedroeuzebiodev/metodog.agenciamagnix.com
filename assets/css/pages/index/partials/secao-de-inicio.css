@@ -61,11 +61,21 @@
   display: inline-block;
 }
 
-#secao-de-inicio img {
+#secao-de-inicio #imagem-da-secao-de-inicio {
   width: 100%;
   max-width: 51.2rem;
 
   object-fit: contain;
 
   margin: auto;
+}
+
+#secao-de-inicio #imagem-do-g-branco-da-secao-de-inicio {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+
+  width: 100%;
+  max-width: 51.2rem;
 }
