@@ -79,3 +79,24 @@
   width: 100%;
   max-width: 51.2rem;
 }
+
+@media (width >= 76.8rem) {
+  #secao-de-inicio h1,
+  #secao-de-inicio span {
+    font-size: 3.6rem;
+
+    line-height: 4rem;
+  }
+
+  #secao-de-inicio h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #secao-de-inicio a {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
+}
