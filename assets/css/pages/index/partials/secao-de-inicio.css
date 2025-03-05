@@ -1,3 +1,13 @@
+#secao-de-inicio #conteudo-da-secao-de-inicio {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.6rem;
+}
+
+#secao-de-inicio #textos-da-secao-de-inicio {
+  flex: 1;
+}
+
 #secao-de-inicio h1,
 #secao-de-inicio span {
   font-size: 3rem;
@@ -49,11 +59,13 @@
   text-align: center;
 
   display: inline-block;
-
-  margin-bottom: 3.6rem;
 }
 
 #secao-de-inicio img {
   width: 100%;
   max-width: 51.2rem;
+
+  object-fit: contain;
+
+  margin: auto;
 }
