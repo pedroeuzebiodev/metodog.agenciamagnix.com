@@ -1,6 +1,6 @@
 body {
   min-height: 100vh;
-  background: var(--cor-de-fundo);
+  background: var(--cor-de-fundo) no-repeat;
 }
 
 .max-width {
