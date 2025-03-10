@@ -80,7 +80,7 @@
   max-width: 51.2rem;
 }
 
-@media (width >= 76.8rem) {
+@media (width >= 768px) {
   #secao-de-inicio h1,
   #secao-de-inicio span {
     font-size: 3.6rem;
