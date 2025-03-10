@@ -1,13 +1,22 @@
 #segunda-secao #conteudo-da-segunda-secao {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   gap: 4.8rem;
+}
+
+#segunda-secao img {
+  width: 100%;
+  max-width: 44.8rem;
+
+  margin: auto;
 }
 
 #segunda-secao #textos-da-segunda-secao {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
+
+  flex: 1;
 }
 
 #segunda-secao h2 {
@@ -51,4 +60,25 @@
   -webkit-background-clip: text;
 
   color: transparent;
+}
+
+@media (width >= 768px) {
+  #segunda-secao h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #segunda-secao ol li {
+    font-size: 1.8rem;
+
+    line-height: 3rem;
+  }
+
+  #segunda-secao h3,
+  #segunda-secao span {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
 }
