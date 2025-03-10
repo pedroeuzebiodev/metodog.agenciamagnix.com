@@ -1,3 +1,7 @@
+#secao-de-inicio {
+  min-height: calc(100vh - 24vh);
+}
+
 #secao-de-inicio #conteudo-da-secao-de-inicio {
   display: flex;
   flex-wrap: wrap;
