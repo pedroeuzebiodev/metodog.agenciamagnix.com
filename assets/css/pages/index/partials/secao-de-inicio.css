@@ -18,6 +18,8 @@
   font-weight: 700;
 
   line-height: 3.6rem;
+
+  animation: apareceNaTela 2s ease-in-out;
 }
 
 #secao-de-inicio h1 {
@@ -41,6 +43,8 @@
   color: var(--cor-de-texto);
 
   margin: 4.8rem 0;
+
+  animation: apareceNaTela 2.4s ease-in-out;
 }
 
 #secao-de-inicio a {
@@ -63,6 +67,8 @@
   text-align: center;
 
   display: inline-block;
+
+  animation: apareceNaTela 2.8s ease-in-out;
 }
 
 #secao-de-inicio #imagem-da-secao-de-inicio {

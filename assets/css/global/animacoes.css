@@ -1,3 +1,15 @@
+@keyframes apareceNaTela {
+  from {
+    opacity: 0;
+    translate: -100vw 0;
+  }
+
+  to {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
 @keyframes apareceNaTelaInfinitamente {
   from {
     transform: translateX(100%);
