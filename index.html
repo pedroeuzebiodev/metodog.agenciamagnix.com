@@ -43,6 +43,7 @@
       href="./assets/favicons/agenciamagnix-favicon.jpeg"
       type="image/jpeg"
     />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -293,9 +294,19 @@
             <img
               src="./assets/images/imagem-da-segunda-secao.png"
               alt="Homem no computador com a mão na cabeça e olhos fechados com um rosto de frustrado"
+              data-aos="fade-right"
+              data-aos-offset="300"
+              data-aos-easing="ease-in-sine"
+              data-aos-duration="800"
             />
 
-            <div id="textos-da-segunda-secao">
+            <div
+              id="textos-da-segunda-secao"
+              data-aos="fade-left"
+              data-aos-offset="300"
+              data-aos-easing="ease-in-sine"
+              data-aos-duration="800"
+            >
               <h2>Se você...</h2>
 
               <ol>
@@ -343,5 +354,10 @@
         </div>
       </section>
     </main>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
   </body>
 </html>
