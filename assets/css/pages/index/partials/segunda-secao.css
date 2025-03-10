@@ -1,0 +1,54 @@
+#segunda-secao #conteudo-da-segunda-secao {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+}
+
+#segunda-secao #textos-da-segunda-secao {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+#segunda-secao h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+
+  color: var(--cor-de-texto);
+}
+
+#segunda-secao ol {
+  list-style-position: inside;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+#segunda-secao ol li {
+  color: var(--cor-de-texto);
+
+  line-height: 2.4rem;
+}
+
+#segunda-secao h3,
+#segunda-secao span {
+  font-size: 2rem;
+  font-weight: 600;
+
+  line-height: 2.4rem;
+}
+
+#segunda-secao h3 {
+  color: var(--cor-de-texto);
+}
+
+#segunda-secao span {
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
