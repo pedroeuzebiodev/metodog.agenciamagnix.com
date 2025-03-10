@@ -40,6 +40,8 @@
   color: var(--cor-de-texto);
 
   line-height: 2.4rem;
+
+  font-weight: 500;
 }
 
 #segunda-secao h3,
