@@ -1,0 +1,121 @@
+#terceira-secao {
+  background: var(--cor-de-texto);
+}
+
+#terceira-secao h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#terceira-secao #paragrafo-da-terceira-secao {
+  line-height: 1.8rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+
+  text-align: center;
+
+  margin: 2.4rem 0;
+
+  font-weight: 500;
+}
+
+#terceira-secao #conteudo-da-terceira-secao {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 4.8rem;
+}
+
+#terceira-secao .textos-do-conteudo-da-terceira-secao {
+  background: var(--cor-de-fundo);
+
+  padding: 3rem;
+
+  border-radius: 0.8rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+
+  width: 100%;
+  max-width: 57.6rem;
+  height: 57.6rem;
+
+  box-shadow: 0.4rem 0.4rem 0.4rem rgb(12, 12, 12, 0.4);
+}
+
+#terceira-secao h3 {
+  font-size: 2rem;
+  font-weight: 600;
+
+  line-height: 2.4rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+
+  text-align: center;
+}
+
+#terceira-secao p {
+  line-height: 1.8rem;
+
+  color: var(--cor-de-texto);
+}
+
+#terceira-secao ul {
+  list-style-position: inside;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+#terceira-secao ul li {
+  color: var(--cor-de-texto);
+
+  line-height: 2.4rem;
+}
+
+@media (width >= 768px) {
+  #terceira-secao h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #terceira-secao #paragrafo-da-terceira-secao,
+  #terceira-secao p {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+
+  #terceira-secao h3 {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
+
+  #terceira-secao ul li {
+    font-size: 1.8rem;
+  }
+}
