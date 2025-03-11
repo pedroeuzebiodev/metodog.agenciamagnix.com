@@ -1,3 +1,16 @@
+#segunda-secao {
+  position: relative;
+}
+
+#segunda-secao #imagem-do-g-da-segunda-secao {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  width: 100%;
+  max-width: 51.2rem;
+}
+
 #segunda-secao #conteudo-da-segunda-secao {
   display: flex;
   flex-wrap: wrap;
@@ -67,6 +80,10 @@
 }
 
 @media (width >= 768px) {
+  #segunda-secao #conteudo-da-segunda-secao {
+    flex-direction: row-reverse;
+  }
+
   #segunda-secao h2 {
     font-size: 3rem;
 
