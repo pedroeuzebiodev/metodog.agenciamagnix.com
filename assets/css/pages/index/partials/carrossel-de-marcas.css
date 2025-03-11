@@ -1,0 +1,51 @@
+#carrossel-de-clientes {
+  background: var(--cor-primaria);
+
+  padding: 3rem 0;
+}
+
+#carrossel-de-clientes h3 {
+  color: var(--cor-de-texto);
+
+  font-size: 2rem;
+  font-weight: 600;
+
+  line-height: 2.4rem;
+
+  margin-bottom: 2.4rem;
+
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#carrossel-de-clientes #conteudo-do-carrossel-de-clientes {
+  overflow: hidden;
+}
+
+#carrossel-de-clientes #clientes {
+  display: flex;
+  gap: 4.8rem;
+  justify-content: center;
+  align-items: center;
+
+  animation: apareceNaTelaInfinitamente 20s infinite linear;
+}
+
+#carrossel-de-clientes .cliente {
+  width: 100%;
+  max-width: 4.8rem;
+}
+
+#carrossel-de-clientes #cliente-40-eduardo-coelho-logo {
+  height: 2.4rem;
+
+  object-fit: contain;
+}
+
+@media (width >= 768px) {
+  #carrossel-de-clientes h3 {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
+}
