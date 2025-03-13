@@ -1,0 +1,81 @@
+#quarta-secao {
+  background: var(--cor-primaria) no-repeat;
+}
+
+#quarta-secao #conteudo-da-quarta-secao {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2.4rem;
+
+  overflow: hidden;
+}
+
+#quarta-secao #x-com-fundo-dourado {
+  width: 100%;
+  max-width: 12.8rem;
+}
+
+#quarta-secao img {
+  width: 100%;
+  max-width: 3.2rem;
+}
+
+#quarta-secao .textos-do-conteudo-da-quarta-secao {
+  width: 100%;
+  max-width: 51.2rem;
+  height: 51.2rem;
+
+  background: var(--cor-quartaria);
+
+  border: 1px solid var(--cor-terciaria);
+  border-radius: 0.8rem;
+
+  padding: 3rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+#quarta-secao h2,
+#quarta-secao span {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+}
+
+#quarta-secao h2 {
+  color: var(--cor-de-texto);
+}
+
+#quarta-secao span#vermelha {
+  color: var(--cor-vermelha);
+}
+
+#quarta-secao span#verde {
+  color: var(--cor-verde);
+}
+
+#quarta-secao p {
+  line-height: 1.8rem;
+
+  color: var(--cor-de-texto);
+}
+
+@media (width >= 768px) {
+  #quarta-secao h2,
+  #quarta-secao span {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #quarta-secao p {
+    font-size: 1.8rem;
+
+    line-height: 2rem;
+  }
+}
