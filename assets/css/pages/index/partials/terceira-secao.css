@@ -1,5 +1,25 @@
 #terceira-secao {
   background: var(--cor-de-texto);
+
+  position: relative;
+}
+
+#terceira-secao #imagem-da-bola-roxa-pequena-da-terceira-secao {
+  position: absolute;
+
+  top: 2.4rem;
+  left: 0;
+  width: 100%;
+  max-width: 4.8rem;
+}
+
+#terceira-secao #imagem-da-bola-roxa-grande-da-terceira-secao {
+  position: absolute;
+
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  max-width: 12.8rem;
 }
 
 #terceira-secao h2 {
@@ -18,7 +38,7 @@
   text-transform: uppercase;
 }
 
-#terceira-secao #paragrafo-da-terceira-secao {
+#terceira-secao p#paragrafo-da-terceira-secao {
   line-height: 1.8rem;
 
   background-image: var(--cor-primaria);
@@ -57,7 +77,12 @@
   max-width: 57.6rem;
   height: 57.6rem;
 
-  box-shadow: 0.4rem 0.4rem 0.4rem rgb(12, 12, 12, 0.4);
+  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
+}
+
+#terceira-secao .textos-do-conteudo-da-terceira-secao:last-child {
+  position: relative;
+  z-index: 2;
 }
 
 #terceira-secao h3 {
@@ -76,9 +101,11 @@
 }
 
 #terceira-secao p {
-  line-height: 1.8rem;
+  font-weight: 500;
 
   color: var(--cor-de-texto);
+
+  line-height: 1.8rem;
 }
 
 #terceira-secao ul {
@@ -93,6 +120,8 @@
   color: var(--cor-de-texto);
 
   line-height: 2.4rem;
+
+  font-weight: 500;
 }
 
 @media (width >= 768px) {
@@ -102,11 +131,16 @@
     line-height: 3.6rem;
   }
 
-  #terceira-secao #paragrafo-da-terceira-secao,
-  #terceira-secao p {
+  #terceira-secao p#paragrafo-da-terceira-secao {
     font-size: 2rem;
 
     line-height: 2.4rem;
+  }
+
+  #terceira-secao p {
+    font-size: 1.8rem;
+
+    line-height: 2rem;
   }
 
   #terceira-secao h3 {
@@ -117,5 +151,7 @@
 
   #terceira-secao ul li {
     font-size: 1.8rem;
+
+    line-height: 3rem;
   }
 }

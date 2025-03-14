@@ -36,7 +36,7 @@
 #quinta-secao #textos-do-conteudo-da-quinta-secao {
   display: flex;
   flex-direction: column;
-  gap: 1.2rem;
+  gap: 1.6rem;
 
   flex: 1;
 }
@@ -86,12 +86,12 @@
 
   color: var(--cor-de-texto);
 
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 500;
 
-  line-height: 2.4rem;
+  line-height: 2rem;
 
-  border-radius: 999.9rem;
+  border-radius: 2.4rem;
 
   padding: 1.2rem 2.4rem;
 
@@ -117,7 +117,7 @@
   #quinta-secao p {
     font-size: 1.8rem;
 
-    line-height: 2rem;
+    line-height: 3rem;
   }
 
   #quinta-secao ul li {
@@ -125,8 +125,8 @@
   }
 
   #quinta-secao a {
-    font-size: 2.4rem;
+    font-size: 2rem;
 
-    line-height: 3rem;
+    line-height: 2.4rem;
   }
 }

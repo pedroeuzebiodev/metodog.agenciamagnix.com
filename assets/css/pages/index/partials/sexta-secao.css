@@ -1,0 +1,196 @@
+#sexta-secao h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+
+  color: var(--cor-de-texto);
+
+  text-align: center;
+  text-transform: uppercase;
+
+  margin-bottom: 4.8rem;
+}
+
+#sexta-secao #textos-1-do-conteudo-da-sexta-secao {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.4rem;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 4.8rem;
+}
+
+#sexta-secao .caixa-dos-textos-1-do-conteudo-da-sexta-secao {
+  padding: 1.2rem 2.4rem;
+
+  background: var(--cor-de-texto);
+
+  border-radius: 0.8rem;
+
+  height: 8rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
+}
+
+#sexta-secao .caixa-dos-textos-1-do-conteudo-da-sexta-secao:last-child {
+  background: var(--cor-vermelha);
+}
+
+#sexta-secao .caixa-dos-textos-1-do-conteudo-da-sexta-secao:last-child p {
+  color: var(--cor-de-texto);
+}
+
+#sexta-secao p,
+#sexta-secao span#vermelho {
+  line-height: 1.8rem;
+
+  font-weight: 500;
+}
+
+#sexta-secao p {
+  color: var(--cor-secundaria);
+}
+
+#sexta-secao span#vermelho {
+  color: var(--cor-vermelha);
+}
+
+#sexta-secao #textos-2-do-conteudo-da-sexta-secao {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4.8rem;
+
+  overflow: hidden;
+}
+
+#sexta-secao h3 {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+
+  color: var(--cor-de-texto);
+
+  text-transform: uppercase;
+  text-align: center;
+
+  flex: 1;
+}
+
+#sexta-secao #cartao-do-conteudo-da-sexta-secao {
+  background: var(--cor-terciaria);
+
+  border-radius: 2.4rem;
+  border: 1px solid var(--cor-de-texto);
+
+  padding: 3rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2.4rem;
+
+  width: 100%;
+  max-width: 57.6rem;
+}
+
+#sexta-secao #desconto {
+  font-size: 6.4rem;
+  font-weight: 700;
+
+  color: var(--cor-de-texto);
+}
+
+#sexta-secao h4 {
+  font-size: 3rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#sexta-secao #logos-de-pagamento {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.4rem;
+}
+
+#sexta-secao img {
+  width: 100%;
+  max-width: 3.2rem;
+  object-fit: contain;
+}
+
+#sexta-secao img#logo-pix {
+  max-width: 8rem;
+}
+
+#sexta-secao a {
+  background: var(--cor-primaria) no-repeat;
+
+  padding: 1.2rem 2.4rem;
+
+  border-radius: 2.4rem;
+
+  color: var(--cor-de-texto);
+
+  font-size: 1.8rem;
+  font-weight: 500;
+
+  line-height: 2rem;
+
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@media (width >= 768px) {
+  #sexta-secao h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #sexta-secao #textos-1-do-conteudo-da-sexta-secao {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #sexta-secao p,
+  #sexta-secao span#vermelho {
+    font-size: 1.8rem;
+
+    line-height: 2rem;
+  }
+
+  #sexta-secao h3 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #sexta-secao #desconto {
+    font-size: 8rem;
+  }
+
+  #sexta-secao h4 {
+    font-size: 3.6rem;
+
+    line-height: 4rem;
+  }
+
+  #sexta-secao a {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+}
