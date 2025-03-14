@@ -4,7 +4,7 @@
 
 #quarta-secao #conteudo-da-quarta-secao {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 2.4rem;
@@ -77,5 +77,11 @@
     font-size: 1.8rem;
 
     line-height: 2rem;
+  }
+}
+
+@media (width >= 1280px) {
+  #quarta-secao #conteudo-da-quarta-secao {
+    flex-direction: row;
   }
 }
