@@ -2,8 +2,8 @@
   <img
     src="./assets/favicons/agenciamagnix-favicon.jpeg"
     alt="Logo da Agência Magnix"
-    width="200"
-    height="200"
+    width="128"
+    height="128"
   
   <br />
 
