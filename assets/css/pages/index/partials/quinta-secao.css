@@ -127,7 +127,7 @@
   }
 }
 
-@media (width >= 1080px) {
+@media (width >= 1024px) {
   #quinta-secao #conteudo-da-quinta-secao {
     flex-direction: row;
   }

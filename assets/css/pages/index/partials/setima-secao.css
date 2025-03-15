@@ -1,5 +1,29 @@
 #setima-secao {
   overflow: hidden;
+
+  position: relative;
+}
+
+#setima-secao #g-branco-1-da-setima-secao,
+#setima-secao #g-branco-2-da-setima-secao {
+  position: absolute;
+  z-index: -1;
+
+  width: 100%;
+}
+
+#setima-secao #g-branco-1-da-setima-secao {
+  right: 0;
+  top: 0;
+
+  max-width: 32rem;
+}
+
+#setima-secao #g-branco-2-da-setima-secao {
+  left: 0;
+  bottom: 0;
+
+  max-width: 15.6rem;
 }
 
 #setima-secao #conteudo-da-setima-secao {
@@ -70,9 +94,17 @@
   }
 }
 
-@media (width >= 1080px) {
+@media (width >= 1024px) {
   #setima-secao #conteudo-da-setima-secao {
     flex-direction: row;
     gap: 0;
+  }
+
+  #setima-secao #g-branco-1-da-setima-secao {
+    max-width: 57.6rem;
+  }
+
+  #setima-secao #g-branco-2-da-setima-secao {
+    max-width: 28.8rem;
   }
 }

@@ -95,7 +95,7 @@
   }
 }
 
-@media (width >= 1080px) {
+@media (width >= 1024px) {
   #secao-de-inicio #conteudo-da-secao-de-inicio {
     flex-direction: row;
   }
