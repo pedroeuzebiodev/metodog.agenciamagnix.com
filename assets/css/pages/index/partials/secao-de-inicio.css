@@ -4,12 +4,8 @@
 
 #secao-de-inicio #conteudo-da-secao-de-inicio {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   gap: 4.8rem;
-}
-
-#secao-de-inicio #textos-da-secao-de-inicio {
-  flex: 1;
 }
 
 #secao-de-inicio h1,
@@ -71,21 +67,11 @@
   animation: apareceNaTela 2.8s ease-in-out;
 }
 
-#secao-de-inicio #imagem-da-secao-de-inicio {
+#secao-de-inicio img {
   width: 100%;
   max-width: 51.2rem;
 
   margin: auto;
-}
-
-#secao-de-inicio #imagem-do-g-branco-da-secao-de-inicio {
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: -1;
-
-  width: 100%;
-  max-width: 51.2rem;
 }
 
 @media (width >= 768px) {
@@ -106,5 +92,11 @@
     font-size: 2rem;
 
     line-height: 2.4rem;
+  }
+}
+
+@media (width >= 1080px) {
+  #secao-de-inicio #conteudo-da-secao-de-inicio {
+    flex-direction: row;
   }
 }

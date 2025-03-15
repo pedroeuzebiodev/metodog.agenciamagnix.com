@@ -1,3 +1,27 @@
+#sexta-secao {
+  position: relative;
+
+  overflow: hidden;
+}
+
+#sexta-secao #g-branco-da-sexta-secao,
+#sexta-secao #bolinhas-laranja {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+}
+
+#sexta-secao #g-branco-da-sexta-secao {
+  left: 0;
+  max-width: 38.4rem;
+}
+
+#sexta-secao #bolinhas-laranja {
+  right: 0;
+
+  max-width: 12.8rem;
+}
+
 #sexta-secao h2 {
   font-size: 2.4rem;
   font-weight: 600;
@@ -42,12 +66,8 @@
   background: var(--cor-vermelha);
 }
 
-#sexta-secao .caixa-dos-textos-1-do-conteudo-da-sexta-secao:last-child p {
-  color: var(--cor-de-texto);
-}
-
 #sexta-secao p,
-#sexta-secao span#vermelho {
+#sexta-secao span {
   line-height: 1.8rem;
 
   font-weight: 500;
@@ -57,16 +77,19 @@
   color: var(--cor-secundaria);
 }
 
-#sexta-secao span#vermelho {
+#sexta-secao .caixa-dos-textos-1-do-conteudo-da-sexta-secao:last-child p {
+  color: var(--cor-de-texto);
+}
+
+#sexta-secao #vermelho {
   color: var(--cor-vermelha);
 }
 
 #sexta-secao #textos-2-do-conteudo-da-sexta-secao {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
   gap: 4.8rem;
-
-  overflow: hidden;
 }
 
 #sexta-secao h3 {
@@ -79,15 +102,13 @@
 
   text-transform: uppercase;
   text-align: center;
-
-  flex: 1;
 }
 
 #sexta-secao #cartao-do-conteudo-da-sexta-secao {
   background: var(--cor-terciaria);
 
   border-radius: 2.4rem;
-  border: 1px solid var(--cor-de-texto);
+  border: 0.2rem solid var(--cor-de-texto);
 
   padding: 3rem;
 
@@ -101,14 +122,14 @@
   max-width: 57.6rem;
 }
 
-#sexta-secao #desconto {
+#sexta-secao h4 {
   font-size: 6.4rem;
   font-weight: 700;
 
   color: var(--cor-de-texto);
 }
 
-#sexta-secao h4 {
+#sexta-secao h4 span {
   font-size: 3rem;
   font-weight: 600;
 
@@ -116,6 +137,8 @@
 
   text-align: center;
   text-transform: uppercase;
+
+  display: block;
 }
 
 #sexta-secao #logos-de-pagamento {
@@ -128,10 +151,11 @@
 #sexta-secao img {
   width: 100%;
   max-width: 3.2rem;
+
   object-fit: contain;
 }
 
-#sexta-secao img#logo-pix {
+#sexta-secao #logo-do-pix {
   max-width: 8rem;
 }
 
@@ -166,7 +190,7 @@
   }
 
   #sexta-secao p,
-  #sexta-secao span#vermelho {
+  #sexta-secao span {
     font-size: 1.8rem;
 
     line-height: 2rem;
@@ -178,11 +202,11 @@
     line-height: 3.6rem;
   }
 
-  #sexta-secao #desconto {
+  #sexta-secao h4 {
     font-size: 8rem;
   }
 
-  #sexta-secao h4 {
+  #sexta-secao h4 span {
     font-size: 3.6rem;
 
     line-height: 4rem;
@@ -192,5 +216,13 @@
     font-size: 2rem;
 
     line-height: 2.4rem;
+  }
+}
+
+@media (width >= 1080px) {
+  #sexta-secao #textos-2-do-conteudo-da-sexta-secao {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
   }
 }
