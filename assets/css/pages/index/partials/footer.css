@@ -1,0 +1,23 @@
+footer {
+  width: 100%;
+
+  background: var(--cor-primaria);
+
+  padding: 2.4rem;
+}
+
+footer p {
+  color: var(--cor-de-texto);
+
+  line-height: 1.8rem;
+
+  text-align: center;
+}
+
+@media (width >= 76.8rem) {
+  footer p {
+    font-size: 1.8rem;
+
+    line-height: 2rem;
+  }
+}
