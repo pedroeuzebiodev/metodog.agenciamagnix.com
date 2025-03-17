@@ -107,7 +107,7 @@
 #sexta-secao #cartao-do-conteudo-da-sexta-secao {
   background: var(--cor-terciaria);
 
-  border-radius: 2.4rem;
+  border-radius: 2rem;
   border: 0.2rem solid var(--cor-de-texto);
 
   padding: 3rem;
@@ -120,6 +120,8 @@
 
   width: 100%;
   max-width: 57.6rem;
+
+  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
 }
 
 #sexta-secao h4 {
@@ -164,7 +166,7 @@
 
   padding: 1.2rem 2.4rem;
 
-  border-radius: 2.4rem;
+  border-radius: 2rem;
 
   color: var(--cor-de-texto);
 
