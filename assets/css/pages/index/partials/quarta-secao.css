@@ -15,7 +15,7 @@
 #quarta-secao .textos-do-conteudo-da-quarta-secao {
   width: 100%;
   max-width: 51.2rem;
-  height: 51.2rem;
+  height: 57.6rem;
 
   background: var(--cor-quartaria);
 
@@ -27,6 +27,8 @@
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
+
+  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
 }
 
 #quarta-secao img {
@@ -64,6 +66,12 @@
 
 #quarta-secao #x-com-fundo-dourado {
   max-width: 12.8rem;
+}
+
+@media (width >= 448px) {
+  #quarta-secao .textos-do-conteudo-da-quarta-secao {
+    height: 51.2rem;
+  }
 }
 
 @media (width >= 768px) {
