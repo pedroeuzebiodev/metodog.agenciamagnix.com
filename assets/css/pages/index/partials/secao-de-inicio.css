@@ -6,6 +6,7 @@
   display: flex;
   flex-direction: column;
   gap: 4.8rem;
+  justify-content: center;
 }
 
 #secao-de-inicio h1,
@@ -57,7 +58,7 @@
 
   padding: 1.2rem 2.4rem;
 
-  border-radius: 2.4rem;
+  border-radius: 2rem;
 
   text-transform: uppercase;
   text-align: center;
