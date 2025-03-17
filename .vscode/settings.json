@@ -83,8 +83,8 @@
   // Adiciona `Fluent Icons` o tema do ícone do produto usado
   "workbench.productIconTheme": "fluent-icons",
 
-  // Adiciona `Min Dark` o tema de cores usado no workbench
-  "workbench.colorTheme": "Min Dark",
+  // Adiciona `Omni Theme` o tema de cores usado no workbench
+  "workbench.colorTheme": "Omni",
 
   // Desabilita o controle de layout
   "workbench.layoutControl.enabled": false,
