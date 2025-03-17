@@ -76,7 +76,7 @@
 
   width: 100%;
   max-width: 57.6rem;
-  height: 57.6rem;
+  height: 76.8rem;
 
   box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
 }
@@ -123,6 +123,12 @@
   line-height: 2.4rem;
 
   font-weight: 500;
+}
+
+@media (width >= 448px) {
+  #terceira-secao .textos-do-conteudo-da-terceira-secao {
+    height: 57.6rem;
+  }
 }
 
 @media (width >= 768px) {
