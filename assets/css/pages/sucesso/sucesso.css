@@ -1,0 +1,110 @@
+@import url(../../global/global.css);
+
+@import url(../index/partials/engrenagens-dourada.css);
+@import url(../index/partials/g-branco.css);
+
+#pagina-de-sucesso {
+  position: relative;
+
+  min-height: 100vh;
+}
+
+#pagina-de-sucesso #conteudo-da-pagina-de-sucesso {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2.4rem;
+
+  padding-top: 8rem;
+}
+
+#pagina-de-sucesso #g-branco-2 {
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+  max-width: 15.6rem;
+}
+
+#pagina-de-sucesso #bola-roxa-grande {
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  bottom: 0;
+
+  width: 100%;
+  max-width: 18.4rem;
+}
+
+#pagina-de-sucesso #checkmark-circle-outline {
+  font-size: 12.8rem;
+
+  color: var(--cor-verde);
+}
+
+#pagina-de-sucesso h1 {
+  font-size: 3rem;
+  font-weight: 700;
+
+  line-height: 3.6rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
+
+#pagina-de-sucesso p {
+  font-weight: 500;
+
+  line-height: 2.4rem;
+
+  color: var(--cor-de-texto);
+
+  text-align: center;
+}
+
+#pagina-de-sucesso a {
+  text-decoration: none;
+
+  color: var(--cor-de-texto);
+
+  font-size: 1.8rem;
+  font-weight: 500;
+
+  line-height: 2rem;
+
+  background: var(--cor-primaria);
+
+  padding: 1.2rem 2.4rem;
+
+  border-radius: 2rem;
+
+  text-transform: uppercase;
+  text-align: center;
+
+  display: inline-block;
+}
+
+@media (width >= 768px) {
+  #pagina-de-sucesso h1 {
+    font-size: 3.6rem;
+    font-weight: 700;
+
+    line-height: 4rem;
+  }
+
+  #pagina-de-sucesso p {
+    font-size: 1.8rem;
+  }
+
+  #pagina-de-sucesso a {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+}
