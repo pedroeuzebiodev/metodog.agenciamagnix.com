@@ -5,7 +5,7 @@
 ::-webkit-scrollbar-thumb {
   background: var(--cor-primaria);
 
-  border-radius: 0.8rem;
+  border-radius: 2rem;
 }
 
 ::-webkit-scrollbar-track {
