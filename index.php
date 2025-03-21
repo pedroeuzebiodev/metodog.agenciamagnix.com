@@ -33,11 +33,11 @@
     />
     <meta
       property="og:image"
-      content="https://i.postimg.cc/bvWt2njZ/preview-web.png"
+      content="https://i.imgur.com/a3326Nv.png"
     />
     <meta
       property="og:image:secure_url"
-      content="https://i.postimg.cc/bvWt2njZ/preview-web.png"
+      content="https://i.imgur.com/a3326Nv.png"
     />
     <meta property="og:image:alt" content="Thumbnail" />
     <meta property="og:image:type" content="image/png" />
