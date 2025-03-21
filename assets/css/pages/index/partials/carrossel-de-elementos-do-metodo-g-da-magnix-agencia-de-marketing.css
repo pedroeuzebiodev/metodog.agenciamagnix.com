@@ -1,0 +1,50 @@
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing {
+  background: var(--cor-primaria) no-repeat;
+
+  padding: 2.4rem 0;
+
+  width: 100%;
+
+  overflow: hidden;
+}
+
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing
+  .conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.4rem;
+
+  animation: apareceNaTelaInfinitamente 20s infinite linear;
+}
+
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing img {
+  width: 100%;
+}
+
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing
+  .engrenagem-dourada {
+  max-width: 2.4rem;
+}
+
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing
+  .texto-1-do-conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing,
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing
+  .texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing {
+  max-width: 25.6rem;
+}
+
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing
+  .logo-do-metodo-g-da-magnix-agencia-de-marketing {
+  max-width: 6.4rem;
+}
+
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing
+  .texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing {
+  max-width: 32rem;
+}
+
+.carrossel-de-elementos-do-metodo-g-da-magnix-agencia-de-marketing
+  .logo-da-magnix-agencia-de-marketing-2 {
+  max-width: 6.4rem;
+}
