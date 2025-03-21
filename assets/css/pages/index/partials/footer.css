@@ -3,10 +3,9 @@ footer {
 
   background: var(--cor-primaria);
 
-  padding: 2.4rem;
-}
+  padding: 2.4rem 3rem;
+  margin-top: 0.8rem;
 
-#conteudo-do-footer {
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
@@ -31,14 +30,16 @@ footer #icones-de-redes-sociais-do-footer {
   gap: 2.4rem;
 }
 
-footer .icone-de-rede-social {
-  font-size: 2.4rem;
-
+footer a {
   color: var(--cor-de-texto);
 }
 
+footer .icone-de-rede-social {
+  font-size: 2.4rem;
+}
+
 @media (width >= 768px) {
-  #conteudo-do-footer {
+  footer {
     flex-direction: row;
     justify-content: space-between;
     gap: 0;

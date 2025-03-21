@@ -49,7 +49,7 @@
 
     <link
       rel="shortcut icon"
-      href="./assets/favicons/magnix-favicon.jpeg"
+      href="/assets/favicons/magnix-favicon.jpeg"
       type="image/jpeg"
     />
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -59,22 +59,22 @@
       href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/css/pages/index/index.css" />
+    <link rel="stylesheet" href="/assets/css/pages/index/index.css" />
   </head>
 
   <body>
     <img
-      src="./assets/images/engrenagens-dourada.png"
+      src="/assets/images/engrenagens-dourada.png"
       alt="Engrenagens dourada"
       id="engrenagens-dourada"
     />
 
-    <img src="./assets/images/g-branco.png" alt="G branco " id="g-branco" />
+    <img src="/assets/images/g-branco.png" alt="G branco " id="g-branco" />
 
     <header>
       <div class="max-width">
         <img
-          src="./assets/images/logo-da-magnix.png"
+          src="/assets/images/logo-da-magnix.png"
           alt="Logo da Magnix"
           id="logo-da-magnix"
         />
@@ -101,7 +101,7 @@
             </div>
 
             <img
-              src="./assets/images/notebook-metodo-g.png"
+              src="/assets/images/notebook-metodo-g.png"
               alt="Notebook mostrando na tela o método G"
               id="notebook-metodo-g"
             />
@@ -113,181 +113,181 @@
         <div class="max-width">
           <div class="conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix">
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem Dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
@@ -297,7 +297,7 @@
 
       <section id="segunda-secao">
         <img
-          src="./assets/images/g-branco-da-segunda-secao.png"
+          src="/assets/images/g-branco-da-segunda-secao.png"
           alt="G branco da segunda seção"
           id="g-branco-da-segunda-secao"
         />
@@ -363,7 +363,7 @@
             </div>
 
             <img
-              src="./assets/images/homem-no-notebook.png"
+              src="/assets/images/homem-no-notebook.png"
               alt="Homem no notebook com a mão na cabeça e olhos fechados com um rosto de frustrado"
               data-aos="fade-right"
               data-aos-offset="300"
@@ -379,181 +379,181 @@
         <div class="max-width">
           <div class="conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix">
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem Dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
@@ -563,13 +563,13 @@
 
       <section id="terceira-secao">
         <img
-          src="./assets/images/bola-roxa-pequena.png"
+          src="/assets/images/bola-roxa-pequena.png"
           alt="Bola roxa pequena"
           id="bola-roxa-pequena"
         />
 
         <img
-          src="./assets/images/bola-roxa-media.png"
+          src="/assets/images/bola-roxa-media.png"
           alt="Bola roxa média"
           id="bola-roxa-media"
         />
@@ -709,181 +709,181 @@
         <div class="max-width">
           <div class="conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix">
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem Dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
@@ -901,7 +901,7 @@
               data-aos-easing="ease-in-sine"
               data-aos-duration="800"
             >
-              <img src="./assets/images/x.png" alt="X" />
+              <img src="/assets/images/x.png" alt="X" />
 
               <h2>
                 Se você está <span id="vermelha">começando do zero:</span>
@@ -919,7 +919,7 @@
             </div>
 
             <img
-              src="./assets/images/x-com-fundo-dourado.png"
+              src="/assets/images/x-com-fundo-dourado.png"
               alt="X com fundo dourado"
               id="x-com-fundo-dourado"
             />
@@ -931,7 +931,7 @@
               data-aos-easing="ease-in-sine"
               data-aos-duration="800"
             >
-              <img src="./assets/images/checked.png" alt="Checked" />
+              <img src="/assets/images/checked.png" alt="Checked" />
 
               <h2>
                 Se você já investiu e ainda não tem os
@@ -954,13 +954,13 @@
 
       <section id="quinta-secao">
         <img
-          src="./assets/images/g-branco-da-quinta-secao.png"
+          src="/assets/images/g-branco-da-quinta-secao.png"
           alt="G branco da quinta seção"
           id="g-branco-da-quinta-secao"
         />
 
         <img
-          src="./assets/images/bola-roxa-grande.png"
+          src="/assets/images/bola-roxa-grande.png"
           alt="Bola roxa grande"
           id="bola-roxa-grande"
         />
@@ -1003,7 +1003,7 @@
             </div>
 
             <img
-              src="./assets/images/imagem-da-quinta-secao.png"
+              src="/assets/images/imagem-da-quinta-secao.png"
               alt="Imagem da quinta seção"
               data-aos="fade-left"
               data-aos-offset="300"
@@ -1022,181 +1022,181 @@
         <div class="max-width">
           <div class="conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix">
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem Dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
@@ -1206,13 +1206,13 @@
 
       <section id="sexta-secao">
         <img
-          src="./assets/images/g-branco-da-sexta-secao.png"
+          src="/assets/images/g-branco-da-sexta-secao.png"
           alt="G branco da sexta seção"
           id="g-branco-da-sexta-secao"
         />
 
         <img
-          src="./assets/images/bolinhas-laranja.png"
+          src="/assets/images/bolinhas-laranja.png"
           alt="Bolinhas laranja"
           id="bolinhas-laranja"
         />
@@ -1319,18 +1319,18 @@
 
                 <div id="logos-de-pagamento">
                   <img
-                    src="./assets/images/logo-do-pix.png"
+                    src="/assets/images/logo-do-pix.png"
                     alt="Logo do Pix"
                     id="logo-do-pix"
                   />
 
                   <img
-                    src="./assets/images/cartao-de-credito.png"
+                    src="/assets/images/cartao-de-credito.png"
                     alt="Cartão de Crédito"
                   />
 
                   <img
-                    src="./assets/images/forma-de-pagamento.png"
+                    src="/assets/images/forma-de-pagamento.png"
                     alt="Forma de pagamento"
                   />
                 </div>
@@ -1348,181 +1348,181 @@
         <div class="max-width">
           <div class="conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix">
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem Dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
@@ -1532,13 +1532,13 @@
 
       <section id="setima-secao">
         <img
-          src="./assets/images/g-branco-da-segunda-secao.png"
+          src="/assets/images/g-branco-da-segunda-secao.png"
           alt="G branco 1 da sétima seção"
           id="g-branco-1-da-setima-secao"
         />
 
         <img
-          src="./assets/images/g-branco-2-da-setima-secao.png"
+          src="/assets/images/g-branco-2-da-setima-secao.png"
           alt="G branco 2 da sétima seção"
           id="g-branco-2-da-setima-secao"
         />
@@ -1575,7 +1575,7 @@
             </div>
 
             <img
-              src="./assets/images/foto-do-brian-sthefano.png"
+              src="/assets/images/foto-do-brian-sthefano.png"
               alt="Foto do Brian Sthefano"
               id="foto-do-brian-sthefano"
               data-aos="fade-left"
@@ -1597,375 +1597,375 @@
         <div id="conteudo-do-carrossel-de-clientes-da-magnix">
           <div id="clientes">
             <img
-              src="./assets/images/super-market-logo.png"
+              src="/assets/images/super-market-logo.png"
               alt="Logo da Super Market"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cajueira-logo.png"
+              src="/assets/images/cajueira-logo.png"
               alt="Logo da Cajueira"
               class="cliente"
             />
 
             <img
-              src="./assets/images/sana-logo.png"
+              src="/assets/images/sana-logo.png"
               alt="Logo do Sana"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-imobiliaria-logo.png"
+              src="/assets/images/almeida-abreu-imobiliaria-logo.png"
               alt="Logo do Almeida Abreu Imobiliária"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-advocacia-logo.png"
+              src="/assets/images/almeida-abreu-advocacia-logo.png"
               alt="Logo do Almeida Abreu Abreu Advogacia"
               class="cliente"
             />
 
             <img
-              src="./assets/images/team-comics-logo.png"
+              src="/assets/images/team-comics-logo.png"
               alt="Logo da Team Comics"
               class="cliente"
             />
 
             <img
-              src="./assets/images/primed-logo.png"
+              src="/assets/images/primed-logo.png"
               alt="Logo da Primed"
               class="cliente"
             />
 
             <img
-              src="./assets/images/bdi-logo.png"
+              src="/assets/images/bdi-logo.png"
               alt="Logo da BDI"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cpsmb-logo.png"
+              src="/assets/images/cpsmb-logo.png"
               alt="Logo da CPSMB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/olimpo-sports-logo.png"
+              src="/assets/images/olimpo-sports-logo.png"
               alt="Logo da Olimpo Sports"
               class="cliente"
             />
 
             <img
-              src="./assets/images/fcnb-logo.png"
+              src="/assets/images/fcnb-logo.png"
               alt="Logo da FCNB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/expo-favela-logo.png"
+              src="/assets/images/expo-favela-logo.png"
               alt="Logo da Expo Favela"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-alirio-filho-logo.png"
+              src="/assets/images/15-alirio-filho-logo.png"
               alt="Logo da Alírio Filho 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tarcisio-logo.png"
+              src="/assets/images/40-tarcisio-logo.png"
               alt="Logo do Tarcísio 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-eduardo-coelho-logo.png"
+              src="/assets/images/40-eduardo-coelho-logo.png"
               alt="Logo do Eduardo Coelho 40"
               class="cliente"
               id="cliente-40-eduardo-coelho-logo"
             />
 
             <img
-              src="./assets/images/10-ynara-mota-logo.png"
+              src="/assets/images/10-ynara-mota-logo.png"
               alt="Logo da Ynara Mota 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11-edim-logo.png"
+              src="/assets/images/11-edim-logo.png"
               alt="Logo do Edim 11"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11111-pedro-campelo-logo.png"
+              src="/assets/images/11111-pedro-campelo-logo.png"
               alt="Logo do Pedro Campelo 11111"
               class="cliente"
             />
 
             <img
-              src="./assets/images/josilda-macena-logo.png"
+              src="/assets/images/josilda-macena-logo.png"
               alt="Logo da Josilda Macena"
               class="cliente"
             />
 
             <img
-              src="./assets/images/herberlh-mota-logo.png"
+              src="/assets/images/herberlh-mota-logo.png"
               alt="Logo do Herberlh Mota"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-william-vieira-logo.png"
+              src="/assets/images/13-william-vieira-logo.png"
               alt="Logo do William Vieira 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tiago-abreu-logo.png"
+              src="/assets/images/40-tiago-abreu-logo.png"
               alt="Logo do Tiago Abreu 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-dra-silvia-logo.png"
+              src="/assets/images/15-dra-silvia-logo.png"
               alt="Logo da Dra. Silvia 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-branco-logo.png"
+              src="/assets/images/13-branco-logo.png"
               alt="Logo do Branco 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-rony-vieira-logo.png"
+              src="/assets/images/40-rony-vieira-logo.png"
               alt="Logo do Rony Vieira 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-dr-leonildo-logo.png"
+              src="/assets/images/40-dr-leonildo-logo.png"
               alt="Logo do Dr. Leonildo 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-lucinha-logo.png"
+              src="/assets/images/40-lucinha-logo.png"
               alt="Logo da Lucinha 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/55-leo-de-doquinha-logo.png"
+              src="/assets/images/55-leo-de-doquinha-logo.png"
               alt="Logo do Léo de Doquinha 55"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-claudio-saraiva-logo.png"
+              src="/assets/images/40-claudio-saraiva-logo.png"
               alt="Logo do Claudio Saraiva 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/10-alexandre-diogenes-logo.png"
+              src="/assets/images/10-alexandre-diogenes-logo.png"
               alt="Logo do Alexandre Diogenes 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-chaveirinho-logo.png"
+              src="/assets/images/40-chaveirinho-logo.png"
               alt="Logo do Chaveirinho 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/super-market-logo.png"
+              src="/assets/images/super-market-logo.png"
               alt="Logo da Super Market"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cajueira-logo.png"
+              src="/assets/images/cajueira-logo.png"
               alt="Logo da Cajueira"
               class="cliente"
             />
 
             <img
-              src="./assets/images/sana-logo.png"
+              src="/assets/images/sana-logo.png"
               alt="Logo do Sana"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-imobiliaria-logo.png"
+              src="/assets/images/almeida-abreu-imobiliaria-logo.png"
               alt="Logo do Almeida Abreu Imobiliária"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-advocacia-logo.png"
+              src="/assets/images/almeida-abreu-advocacia-logo.png"
               alt="Logo do Almeida Abreu Abreu Advogacia"
               class="cliente"
             />
 
             <img
-              src="./assets/images/team-comics-logo.png"
+              src="/assets/images/team-comics-logo.png"
               alt="Logo da Team Comics"
               class="cliente"
             />
 
             <img
-              src="./assets/images/primed-logo.png"
+              src="/assets/images/primed-logo.png"
               alt="Logo da Primed"
               class="cliente"
             />
 
             <img
-              src="./assets/images/bdi-logo.png"
+              src="/assets/images/bdi-logo.png"
               alt="Logo da BDI"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cpsmb-logo.png"
+              src="/assets/images/cpsmb-logo.png"
               alt="Logo da CPSMB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/olimpo-sports-logo.png"
+              src="/assets/images/olimpo-sports-logo.png"
               alt="Logo da Olimpo Sports"
               class="cliente"
             />
 
             <img
-              src="./assets/images/fcnb-logo.png"
+              src="/assets/images/fcnb-logo.png"
               alt="Logo da FCNB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/expo-favela-logo.png"
+              src="/assets/images/expo-favela-logo.png"
               alt="Logo da Expo Favela"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-alirio-filho-logo.png"
+              src="/assets/images/15-alirio-filho-logo.png"
               alt="Logo da Alírio Filho 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tarcisio-logo.png"
+              src="/assets/images/40-tarcisio-logo.png"
               alt="Logo do Tarcísio 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-eduardo-coelho-logo.png"
+              src="/assets/images/40-eduardo-coelho-logo.png"
               alt="Logo do Eduardo Coelho 40"
               class="cliente"
               id="cliente-40-eduardo-coelho-logo"
             />
 
             <img
-              src="./assets/images/10-ynara-mota-logo.png"
+              src="/assets/images/10-ynara-mota-logo.png"
               alt="Logo da Ynara Mota 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11-edim-logo.png"
+              src="/assets/images/11-edim-logo.png"
               alt="Logo do Edim 11"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11111-pedro-campelo-logo.png"
+              src="/assets/images/11111-pedro-campelo-logo.png"
               alt="Logo do Pedro Campelo 11111"
               class="cliente"
             />
 
             <img
-              src="./assets/images/josilda-macena-logo.png"
+              src="/assets/images/josilda-macena-logo.png"
               alt="Logo da Josilda Macena"
               class="cliente"
             />
 
             <img
-              src="./assets/images/herberlh-mota-logo.png"
+              src="/assets/images/herberlh-mota-logo.png"
               alt="Logo do Herberlh Mota"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-william-vieira-logo.png"
+              src="/assets/images/13-william-vieira-logo.png"
               alt="Logo do William Vieira 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tiago-abreu-logo.png"
+              src="/assets/images/40-tiago-abreu-logo.png"
               alt="Logo do Tiago Abreu 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-dra-silvia-logo.png"
+              src="/assets/images/15-dra-silvia-logo.png"
               alt="Logo da Dra. Silvia 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-branco-logo.png"
+              src="/assets/images/13-branco-logo.png"
               alt="Logo do Branco 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-rony-vieira-logo.png"
+              src="/assets/images/40-rony-vieira-logo.png"
               alt="Logo do Rony Vieira 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-dr-leonildo-logo.png"
+              src="/assets/images/40-dr-leonildo-logo.png"
               alt="Logo do Dr. Leonildo 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-lucinha-logo.png"
+              src="/assets/images/40-lucinha-logo.png"
               alt="Logo da Lucinha 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/55-leo-de-doquinha-logo.png"
+              src="/assets/images/55-leo-de-doquinha-logo.png"
               alt="Logo do Léo de Doquinha 55"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-claudio-saraiva-logo.png"
+              src="/assets/images/40-claudio-saraiva-logo.png"
               alt="Logo do Claudio Saraiva 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/10-alexandre-diogenes-logo.png"
+              src="/assets/images/10-alexandre-diogenes-logo.png"
               alt="Logo do Alexandre Diogenes 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-chaveirinho-logo.png"
+              src="/assets/images/40-chaveirinho-logo.png"
               alt="Logo do Chaveirinho 40"
               class="cliente"
             />
@@ -1975,19 +1975,19 @@
 
       <section id="oitava-secao">
         <img
-          src="./assets/images/bola-roxa-1-da-oitava-secao.png"
+          src="/assets/images/bola-roxa-1-da-oitava-secao.png"
           alt="Bola roxa 1 da oitava seção"
           id="bola-roxa-1-da-oitava-secao"
         />
 
         <img
-          src="./assets/images/bola-roxa-2-da-oitava-secao.png"
+          src="/assets/images/bola-roxa-2-da-oitava-secao.png"
           alt="Bola roxa 2 da oitava seção"
           id="bola-roxa-2-da-oitava-secao"
         />
 
         <img
-          src="./assets/images/bolinhas-laranja-da-oitava-secao.png"
+          src="/assets/images/bolinhas-laranja-da-oitava-secao.png"
           alt="Bolinhas laranja da oitava seção"
           id="bolinhas-laranja-da-oitava-secao"
         />
@@ -2029,181 +2029,181 @@
         <div class="max-width">
           <div class="conteudo-do-carrossel-de-elementos-do-metodo-g-da-magnix">
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem Dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-do-metodo-g-da-agencia-magnix.png"
+              src="/assets/images/logo-do-metodo-g-da-agencia-magnix.png"
               alt="Logo do Método G da Agência Magnix"
               class="logo-do-metodo-g-da-agencia-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/logo-da-magnix.png"
+              src="/assets/images/logo-da-magnix.png"
               alt="Logo da Agência Magnix"
               class="logo-da-magnix"
             />
 
             <img
-              src="./assets/images/engrenagem-dourada.png"
+              src="/assets/images/engrenagem-dourada.png"
               alt="Engrenagem dourada"
               class="engrenagem-dourada"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix.png"
               alt="Estrategistas de resultados"
               class="texto-3-do-carrossel-de-elementos-do-metodo-g-da-magnix"
             />
@@ -2213,7 +2213,7 @@
 
       <section id="nona-secao">
         <img
-          src="./assets/images/g-branco.png"
+          src="/assets/images/g-branco.png"
           alt="G branco da nona seção"
           id="g-branco-da-nona-secao"
         />
@@ -2240,7 +2240,7 @@
             </div>
 
             <form
-              action="./form.php"
+              action="/form.php"
               method="POST"
               data-aos="fade-left"
               data-aos-offset="300"
@@ -2405,47 +2405,43 @@
     </main>
 
     <footer>
-      <div id="conteudo-do-footer">
-        <p>Magnix © 2025 - Todos os direitos reservados</p>
+      <p>Magnix © 2025 - Todos os direitos reservados</p>
 
-        <div id="icones-de-redes-sociais-do-footer">
-          <a
-            href="https://www.facebook.com/people/Magnix/61571115934380"
-            target="_blank"
-          >
-            <ion-icon
-              name="logo-facebook"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
-          <a href="https://www.instagram.com/agenciamagnix" target="_blank">
-            <ion-icon
-              name="logo-instagram"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
-          <a href="https://www.tiktok.com/@agenciamagnix" target="_blank">
-            <ion-icon
-              name="logo-tiktok"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
-          <a
-            href="https://www.linkedin.com/company/agenciamagnix"
-            target="_blank"
-          >
-            <ion-icon
-              name="logo-linkedin"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
-          <a href="#" target="_blank">
-            <ion-icon
-              name="logo-youtube"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
-        </div>
+      <div id="icones-de-redes-sociais-do-footer">
+        <a
+          href="https://www.facebook.com/people/Magnix/61571115934380"
+          target="_blank"
+        >
+          <ion-icon
+            name="logo-facebook"
+            class="icone-de-rede-social"
+          ></ion-icon>
+        </a>
+
+        <a href="https://www.instagram.com/agenciamagnix" target="_blank">
+          <ion-icon
+            name="logo-instagram"
+            class="icone-de-rede-social"
+          ></ion-icon>
+        </a>
+
+        <a href="https://www.tiktok.com/@agenciamagnix" target="_blank">
+          <ion-icon name="logo-tiktok" class="icone-de-rede-social"></ion-icon>
+        </a>
+
+        <a
+          href="https://www.linkedin.com/company/agenciamagnix"
+          target="_blank"
+        >
+          <ion-icon
+            name="logo-linkedin"
+            class="icone-de-rede-social"
+          ></ion-icon>
+        </a>
+
+        <a href="#" target="_blank">
+          <ion-icon name="logo-youtube" class="icone-de-rede-social"></ion-icon>
+        </a>
       </div>
     </footer>
 
