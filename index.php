@@ -2240,7 +2240,7 @@
             </div>
 
             <form
-              action="./assets/php/pages/index/index.php"
+              action="./form.php"
               method="POST"
               data-aos="fade-left"
               data-aos-offset="300"
