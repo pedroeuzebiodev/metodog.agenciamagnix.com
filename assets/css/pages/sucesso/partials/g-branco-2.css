@@ -1,0 +1,9 @@
+#pagina-de-sucesso #g-branco-2 {
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+  max-width: 15.6rem;
+}
