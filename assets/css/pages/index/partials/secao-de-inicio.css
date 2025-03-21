@@ -68,7 +68,7 @@
   animation: apareceNaTela 2.8s ease-in-out;
 }
 
-#secao-de-inicio img {
+#secao-de-inicio #notebook-metodo-g {
   width: 100%;
   max-width: 51.2rem;
 
