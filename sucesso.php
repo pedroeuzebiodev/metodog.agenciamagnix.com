@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Magnix | Sucesso</title>
+    <title>Magnix - Método G | Sucesso</title>
 
     <link
       rel="shortcut icon"
-      href="../../../../assets/favicons/agenciamagnix-favicon.jpeg"
+      href="./assets/favicons/magnix-favicon.jpeg"
       type="image/jpeg"
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -17,27 +17,27 @@
       href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="../../../css/pages/sucesso/sucesso.css" />
+    <link rel="stylesheet" href="./assets/css/pages/sucesso.css" />
   </head>
 
   <body>
     <div id="pagina-de-sucesso">
       <img
-        src="../../../images/engrenagens-dourada.png"
+        src="./assets/images/engrenagens-dourada.png"
         alt="Engrenagens dourada"
         id="engrenagens-dourada"
       />
 
-      <img src="../../../images/g-branco.png" alt="G branco" id="g-branco" />
+      <img src="./assets/images/g-branco.png" alt="G branco" id="g-branco" />
 
       <img
-        src="../../../images/g-branco-2-da-setima-secao.png"
+        src="./images/g-branco-2-da-setima-secao.png"
         alt="G branco 2"
         id="g-branco-2"
       />
 
       <img
-        src="../../../images/bola-roxa-grande.png"
+        src="./images/bola-roxa-grande.png"
         alt="Bola roxa grande"
         id="bola-roxa-grande"
       />
