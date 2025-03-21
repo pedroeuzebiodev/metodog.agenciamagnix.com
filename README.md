@@ -23,7 +23,7 @@
 </h1>
 
 <h4 align="center">
- 🚧  Agência Magnix | Método G 💛🧡 Concluído 🚀 🚧
+ 🚧  Magnix - Método G | Agência de Marketing 💛🧡 Concluído 🚀 🚧
 </h4>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## 💻 Sobre o projeto
 
-💜 Agência Magnix | Método G - é uma vitrine do método G, uma estratégia de marketing social testada e aprovada em mais de 50 negócios, desenvolvida para entregar resultados reais full time. O diferencial? O Método G transforma completamente a maneira como você enxerga e executa suas ações de marketing, tudo em apenas 7 dias intensivos, divididos em três etapas essenciais.
+💛🧡 Magnix - Método G | Agência de Marketing - é uma vitrine do método G, uma estratégia de marketing social testada e aprovada em mais de 50 negócios, desenvolvida para entregar resultados reais full time. O diferencial? O Método G transforma completamente a maneira como você enxerga e executa suas ações de marketing, tudo em apenas 7 dias intensivos, divididos em três etapas essenciais.
 
 ---
 
@@ -53,13 +53,13 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Agência Magnix | Método G" title="Agência Magnix | Método G" src="./.github/preview-mobile.png" width="200px">
+  <img alt="Magnix - Método G | Agência de Marketing" title="Magnix - Método G | Agência de Marketing" src="./.github/preview-mobile.png" width="200px">
 </p>
 
 ### Web
 
 <p align="center">
-  <img alt="Agência Magnix | Método G" title="Agência Magnix | Método G" src="./.github/preview-web.png" width="400px">
+  <img alt="Magnix - Método G | Agência de Marketing" title="Magnix - Método G | Agência de Marketing" src="./.github/preview-web.png" width="400px">
 </p>
 
 ---
@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Website do Método G da Agência Magnix)](https://www.figma.com/design/kcmtZZncEcXyJ7ToRnDF6o/Website-do-M%C3%A9todo-G-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=QjQQWQTPIQ34PB5s-1)**
+- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Website do Método G da Magnix | Agência de Magnix)](https://www.figma.com/design/kcmtZZncEcXyJ7ToRnDF6o/Website-do-M%C3%A9todo-G-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=QjQQWQTPIQ34PB5s-1)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
