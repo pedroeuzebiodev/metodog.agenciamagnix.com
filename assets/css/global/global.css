@@ -1,6 +1,6 @@
-@import url(./animacoes.css);
-@import url(./barra-de-rolagem.css);
-@import url(./elementos.css);
-@import url(./fontes.css);
-@import url(./normalizar.css);
-@import url(./variaveis.css);
+@import url(/assets/css/global/animacoes.css);
+@import url(/assets/css/global/barra-de-rolagem.css);
+@import url(/assets/css/global/elementos.css);
+@import url(/assets/css/global/fontes.css);
+@import url(/assets/css/global/normalizar.css);
+@import url(/assets/css/global/variaveis.css);

@@ -69,14 +69,14 @@
       id="engrenagens-dourada"
     />
 
-    <img src="/assets/images/g-branco.png" alt="G branco " id="g-branco" />
+    <img src="/assets/images/g-branco.png" alt="G Branco " id="g-branco" />
 
     <header>
       <div class="max-width">
         <img
-          src="/assets/images/logo-da-magnix.png"
-          alt="Logo da Magnix"
-          id="logo-da-magnix"
+          src="/assets/images/logo-da-magnix-agencia-de-marketing.png"
+          alt="Logo da Magnix | Agência de Marketing"
+          id="logo-da-magnix-agencia-de-marketing"
         />
       </div>
     </header>
