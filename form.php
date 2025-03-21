@@ -95,7 +95,7 @@
     $cabecalhos .= "Reply-To: $email\r\n";
       
     if (mail($para, $assunto, $mensagem_html, $cabecalhos)) {
-      header("Location: sucesso.html");
+      header("Location: sucesso.php");
       exit;
     } else {
       echo "Ocorreu um erro ao enviar o formulário. Por favor, tente novamente.";
