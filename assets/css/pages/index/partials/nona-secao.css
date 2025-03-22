@@ -26,6 +26,8 @@
   display: flex;
   flex-direction: column;
   gap: 4.8rem;
+  justify-content: center;
+  align-items: center;
 }
 
 #nona-secao h2,
@@ -91,6 +93,7 @@
 #nona-secao #conteudo-dos-inputs {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   gap: 1.2rem;
 
   margin-bottom: 2.4rem;
@@ -210,7 +213,7 @@
   }
 }
 
-@media (width >= 1024px) {
+@media (width >= 1280px) {
   #nona-secao #conteudo-da-nona-secao {
     flex-direction: row;
   }

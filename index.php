@@ -2214,7 +2214,7 @@
       <section id="nona-secao">
         <img
           src="/assets/images/g-branco.png"
-          alt="G branco da nona seção"
+          alt="G Branco da Nona Seção"
           id="g-branco-da-nona-secao"
         />
 
@@ -2293,9 +2293,11 @@
                     <div class="select-personalizado">
                       <select name="voce-e" id="voce-e" required>
                         <option value="">Você é:</option>
+
                         <option value="Profissional autônomo">
                           Profissional autônomo
                         </option>
+
                         <option value="Dono(a) de empresa">
                           Dono(a) de empresa
                         </option>
@@ -2331,18 +2333,23 @@
                         <option value="">
                           Qual é o faturamento do seu negócio?
                         </option>
+
                         <option value="Menos de R$ 5.000/mês">
                           Menos de R$ 5.000/mês
                         </option>
+
                         <option value="Entre R$ 5.000 e R$ 20.000/mês">
                           Entre R$ 5.000 e R$ 20.000/mês
                         </option>
+
                         <option value="Entre R$ 20.000 e R$ 50.000/mês">
                           Entre R$ 20.000 e R$ 50.000/mês
                         </option>
+
                         <option value="Entre R$ 50.000 e R$ 100.000/mês">
                           Entre R$ 50.000 e R$ 100.000/mês
                         </option>
+
                         <option value="Acima de R$ 100.000/mês">
                           Acima de R$ 100.000/mês
                         </option>
@@ -2364,27 +2371,32 @@
                         <option value="">
                           Qual é o seu maior desafio no momento?
                         </option>
+
                         <option
                           value="Falta de tempo para cuidar das redes sociais"
                         >
                           Falta de tempo para cuidar das redes sociais
                         </option>
+
                         <option
                           value="Não sei como investir em marketing digital"
                         >
                           Não sei como investir em marketing digital
                         </option>
+
                         <option
                           value="Meu negócio não está vendendo como eu gostaria"
                         >
                           Meu negócio não está vendendo como eu gostaria
                         </option>
+
                         <option
                           value="Tenho dificuldade em criar conteúdos que geram engajamento"
                         >
                           Tenho dificuldade em criar conteúdos que geram
                           engajamento
                         </option>
+                        
                         <option
                           value="Quero melhorar meu posicionamento e autoridade no mercado"
                         >
