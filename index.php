@@ -2396,7 +2396,7 @@
                           Tenho dificuldade em criar conteúdos que geram
                           engajamento
                         </option>
-                        
+
                         <option
                           value="Quero melhorar meu posicionamento e autoridade no mercado"
                         >
@@ -2419,7 +2419,7 @@
     <footer>
       <p>Magnix © 2025 - Todos os direitos reservados</p>
 
-      <div id="icones-de-redes-sociais-do-footer">
+      <div id="icones-de-redes-sociais">
         <a
           href="https://www.facebook.com/people/Magnix/61571115934380"
           target="_blank"

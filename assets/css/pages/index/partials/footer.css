@@ -4,7 +4,6 @@ footer {
   background: var(--cor-primaria);
 
   padding: 2.4rem 3rem;
-  margin-top: 0.8rem;
 
   display: flex;
   flex-direction: column-reverse;
@@ -23,7 +22,7 @@ footer p {
   text-align: center;
 }
 
-footer #icones-de-redes-sociais-do-footer {
+footer #icones-de-redes-sociais {
   display: flex;
   align-items: center;
   justify-content: center;
