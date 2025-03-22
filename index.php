@@ -19,7 +19,7 @@
 
     <meta
       property="og:title"
-      content="Website do Método G da Magnix | Agência Magnix"
+      content="Website do Método G da Magnix | Agência de Marketing"
     />
     <meta
       property="og:description"
