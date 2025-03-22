@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="Agência Magnix" title="Agência Magnix" src="./.github/capa.png" />
+  <img alt="Magnix | Agência de Marketing" title="Magnix | Agência de Marketing" src="./.github/capa.png" />
 </h1>
 
 <h4 align="center">
@@ -46,7 +46,7 @@
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/design/kcmtZZncEcXyJ7ToRnDF6o/Website-do-M%C3%A9todo-G-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=QjQQWQTPIQ34PB5s-1">
+<a href="https://www.figma.com/design/kcmtZZncEcXyJ7ToRnDF6o/Website-do-M%C3%A9todo-G-da-Magnix-%7C-Ag%C3%AAncia-de-Marketing?node-id=0-1&t=drOo3qxYvIr5RX1Q-1">
   <img alt="Made by Aryel e Gabriel" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
@@ -96,11 +96,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[PHP](https://www.php.net)**
 - **[AOS - Animate on Scroll Library](https://michalsnik.github.io/aos/)**
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Website do Método G da Magnix | Agência de Magnix)](https://www.figma.com/design/kcmtZZncEcXyJ7ToRnDF6o/Website-do-M%C3%A9todo-G-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=QjQQWQTPIQ34PB5s-1)**
+- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Website do Método G da Magnix | Agência de Magnix)](https://www.figma.com/design/kcmtZZncEcXyJ7ToRnDF6o/Website-do-M%C3%A9todo-G-da-Magnix-%7C-Ag%C3%AAncia-de-Marketing?node-id=0-1&t=drOo3qxYvIr5RX1Q-1)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
