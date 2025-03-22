@@ -955,13 +955,13 @@
       <section id="quinta-secao">
         <img
           src="/assets/images/g-branco-da-quinta-secao.png"
-          alt="G branco da quinta seção"
+          alt="G Branco da Quinta Seção"
           id="g-branco-da-quinta-secao"
         />
 
         <img
           src="/assets/images/bola-roxa-grande.png"
-          alt="Bola roxa grande"
+          alt="Bola Roxa Grande"
           id="bola-roxa-grande"
         />
 
@@ -1004,7 +1004,7 @@
 
             <img
               src="/assets/images/imagem-da-quinta-secao.png"
-              alt="Imagem da quinta seção"
+              alt="Imagem da Quinta Seção"
               data-aos="fade-left"
               data-aos-offset="300"
               data-aos-easing="ease-in-sine"

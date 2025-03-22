@@ -9,6 +9,8 @@
   position: absolute;
   z-index: -1;
   right: 0;
+
+  width: 100%;
 }
 
 #quinta-secao #g-branco-da-quinta-secao {
@@ -27,6 +29,8 @@
   display: flex;
   flex-direction: column;
   gap: 4.8rem;
+  justify-content: center;
+  align-items: center;
 
   margin-bottom: 4.8rem;
 }
@@ -73,8 +77,6 @@
 #quinta-secao img {
   width: 100%;
   max-width: 44.8rem;
-
-  margin: auto;
 }
 
 #quinta-secao a {
