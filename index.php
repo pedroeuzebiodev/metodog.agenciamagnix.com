@@ -1533,13 +1533,13 @@
       <section id="setima-secao">
         <img
           src="/assets/images/g-branco-da-segunda-secao.png"
-          alt="G branco 1 da sétima seção"
+          alt="G Branco 1 da Sétima Seção"
           id="g-branco-1-da-setima-secao"
         />
 
         <img
           src="/assets/images/g-branco-2-da-setima-secao.png"
-          alt="G branco 2 da sétima seção"
+          alt="G Branco 2 da Sétima Seção"
           id="g-branco-2-da-setima-secao"
         />
 
@@ -1976,19 +1976,19 @@
       <section id="oitava-secao">
         <img
           src="/assets/images/bola-roxa-1-da-oitava-secao.png"
-          alt="Bola roxa 1 da oitava seção"
+          alt="Bola Roxa 1 da Oitava Seção"
           id="bola-roxa-1-da-oitava-secao"
         />
 
         <img
           src="/assets/images/bola-roxa-2-da-oitava-secao.png"
-          alt="Bola roxa 2 da oitava seção"
+          alt="Bola Roxa 2 da Oitava Seção"
           id="bola-roxa-2-da-oitava-secao"
         />
 
         <img
           src="/assets/images/bolinhas-laranja-da-oitava-secao.png"
-          alt="Bolinhas laranja da oitava seção"
+          alt="Bolinhas Laranja da Oitava Seção"
           id="bolinhas-laranja-da-oitava-secao"
         />
 

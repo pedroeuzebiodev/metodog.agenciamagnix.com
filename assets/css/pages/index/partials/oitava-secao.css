@@ -125,7 +125,7 @@
   margin: auto;
 }
 
-@media (width >= 896px) {
+@media (width >= 768px) {
   #oitava-secao #textos-do-conteudo-da-oitava-secao {
     flex-direction: row;
   }
