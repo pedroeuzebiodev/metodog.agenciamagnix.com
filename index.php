@@ -1207,13 +1207,13 @@
       <section id="sexta-secao">
         <img
           src="/assets/images/g-branco-da-sexta-secao.png"
-          alt="G branco da sexta seção"
+          alt="G Branco da Sexta Seção"
           id="g-branco-da-sexta-secao"
         />
 
         <img
           src="/assets/images/bolinhas-laranja.png"
-          alt="Bolinhas laranja"
+          alt="Bolinhas Laranja"
           id="bolinhas-laranja"
         />
 
