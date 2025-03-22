@@ -4,21 +4,24 @@
   position: relative;
 }
 
-#terceira-secao #bola-roxa-pequena {
+#terceira-secao #bola-roxa-pequena,
+#terceira-secao #bola-roxa-media {
   position: absolute;
+
+  width: 100%;
+}
+
+#terceira-secao #bola-roxa-pequena {
   top: 2.4rem;
   left: 0;
 
-  width: 100%;
   max-width: 4.8rem;
 }
 
 #terceira-secao #bola-roxa-media {
-  position: absolute;
   right: 0;
   bottom: 0;
 
-  width: 100%;
   max-width: 12.8rem;
 }
 

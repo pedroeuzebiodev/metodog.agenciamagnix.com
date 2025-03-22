@@ -298,7 +298,7 @@
       <section id="segunda-secao">
         <img
           src="/assets/images/g-branco-da-segunda-secao.png"
-          alt="G branco da segunda seção"
+          alt="G Branco da Segunda Seção"
           id="g-branco-da-segunda-secao"
         />
 
@@ -564,13 +564,13 @@
       <section id="terceira-secao">
         <img
           src="/assets/images/bola-roxa-pequena.png"
-          alt="Bola roxa pequena"
+          alt="Bola Roxa Pequena"
           id="bola-roxa-pequena"
         />
 
         <img
           src="/assets/images/bola-roxa-media.png"
-          alt="Bola roxa média"
+          alt="Bola Roxa Média"
           id="bola-roxa-media"
         />
 
