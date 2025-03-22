@@ -1,8 +1,8 @@
-@import url(../../global/global.css);
+@import url(/assets/css/global/global.css);
 
-@import url(../index/partials/engrenagens-dourada.css);
-@import url(../index/partials/g-branco.css);
+@import url(/assets/css/pages/index/partials/engrenagens-dourada.css);
+@import url(/assets/css/pages/index/partials/g-branco.css);
 
-@import url(./partials/bola-roxa-grande.css);
-@import url(./partials/g-branco-2.css);
-@import url(./partials/pagina-de-sucesso.css);
+@import url(/assets/css/pages/sucesso/partials/bola-roxa-grande.css);
+@import url(/assets/css/pages/sucesso/partials/g-branco-2.css);
+@import url(/assets/css/pages/sucesso/partials/pagina-de-sucesso.css);

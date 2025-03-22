@@ -8,7 +8,7 @@
 
     <link
       rel="shortcut icon"
-      href="./assets/favicons/magnix-favicon.jpeg"
+      href="/assets/favicons/favicon.jpeg"
       type="image/jpeg"
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -17,28 +17,28 @@
       href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/css/pages/sucesso.css" />
+    <link rel="stylesheet" href="/assets/css/pages/sucesso/sucesso.css" />
   </head>
 
   <body>
     <div id="pagina-de-sucesso">
       <img
-        src="./assets/images/engrenagens-dourada.png"
-        alt="Engrenagens dourada"
+        src="/assets/images/engrenagens-dourada.png"
+        alt="Engrenagens Dourada"
         id="engrenagens-dourada"
       />
 
-      <img src="./assets/images/g-branco.png" alt="G branco" id="g-branco" />
+      <img src="/assets/images/g-branco.png" alt="G Branco" id="g-branco" />
 
       <img
-        src="./images/g-branco-2-da-setima-secao.png"
-        alt="G branco 2"
+        src="/assets/images/g-branco-2-da-setima-secao.png"
+        alt="G Branco 2"
         id="g-branco-2"
       />
 
       <img
-        src="./images/bola-roxa-grande.png"
-        alt="Bola roxa grande"
+        src="/assets/images/bola-roxa-grande.png"
+        alt="Bola Roxa Grande"
         id="bola-roxa-grande"
       />
 
